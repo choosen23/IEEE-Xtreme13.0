@@ -94,7 +94,6 @@ int main() {
         y--;
         char res[10000];
         char c = fromDeci(res,i,k)[y];
-        cout << "mpika" <<endl;
         int ci = (int)c;
         cout << set1[ci] << endl;
     } 
